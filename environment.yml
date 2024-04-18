@@ -1,0 +1,14 @@
+name: decomposition-shap
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy=1.21.2
+  - scikit-learn=1.0.1
+  - xgboost=1.0.2
+  - matplotlib
+  - pandas
+  - shap=0.35.0
+  - pytest
+  - statsmodels
+  - pingouin
